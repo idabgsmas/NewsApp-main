@@ -1,0 +1,2 @@
+com/kelompok6/newsxpress/BuildConfig.java
+ com.kelompok6.newsxpress.BuildConfig
